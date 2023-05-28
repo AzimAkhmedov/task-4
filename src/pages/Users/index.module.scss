@@ -1,0 +1,25 @@
+.table {
+  width: 100%;
+  color: #dde6ed;
+  thead {
+    tr {
+      th {
+        font-size: 20px;
+        text-transform: capitalize;
+        height: 100px;
+        border-bottom: 2px solid #526d82;
+      }
+    }
+  }
+  tbody {
+    tr {
+      height: 60px;
+      th {
+        font-size: 20px;
+        text-transform: capitalize;
+        height: 50px;
+        border-bottom: 2px solid #526d82;
+      }
+    }
+  }
+}
